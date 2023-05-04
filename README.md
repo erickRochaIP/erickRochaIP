@@ -1,4 +1,4 @@
-My name is Erick Figueirôa Rocha 😎  
+My name is Erick Figueirôa Rocha, nice to meet you 😎  
 I am currently studying computer engineering at CEFET 💻  
 I am interested in learning more about the various fields of computing and making a positive impact with my work 👍  
 Maybe someday I'll contribute in a open source project... I hope!  
