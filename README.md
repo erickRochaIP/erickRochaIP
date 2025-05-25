@@ -1,8 +1,10 @@
-My name is Erick Figueirôa Rocha, nice to meet you 😎  
-I am currently studying computer engineering at CEFET 💻  
-I am interested in learning more about the various fields of computing and making a positive impact with my work 👍  
-Maybe someday I'll contribute in a open source project... I hope!  
-Feel free to look at my repositories to see what kind of thing I've been doing in the last years 🎣
+## 👋 Hi there! I'm Erick Figueirôa Rocha
+Currently studying Computer Engineering at CEFET 💻  
+Passionate about exploring different areas of computing and eager to keep learning and growing.  
+Always aiming to make a positive impact through technology 🌱  
+Curious about real-world applications and gradually working toward contributing to open source projects 🚀  
+Feel free to explore my repositories to see what I’ve been working on over the years 🎣  
+Thanks for stopping by!
 
 <!---
 erickRochaIP/erickRochaIP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
